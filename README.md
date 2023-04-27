@@ -17,8 +17,7 @@ If you use `ChatGPT4REIR_eval`, please cite the following paper:
 @article{zhang2023preliminary,
       title={A Preliminary Evaluation of ChatGPT in Requirements Information Retrieval}, 
       author={Jianzhang Zhang and Yiyang Chen and Nan Niu and Chuang Liu},
-      journal={arXiv preprint arXiv:2212.09289},
+      journal={arXiv preprint arXiv:2304.12562},
       year={2023},
 }
 ```
-
